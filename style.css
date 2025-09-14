@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+    color: rgb(241, 241, 241);
+}
+
+div {
+    background-color: rgb(255, 0, 0);
+    margin: 50px;
+}
